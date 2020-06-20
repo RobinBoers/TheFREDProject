@@ -1,0 +1,1 @@
+execute as PingPongK run say Anna is een idioot.
