@@ -1,0 +1,1 @@
+datapack enable "file/red_brush"

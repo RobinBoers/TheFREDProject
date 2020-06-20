@@ -1,0 +1,1 @@
+execute at @e[tag=redstone_golem] as @e[distance=..2] run effect give @s levitation 100 1 true
