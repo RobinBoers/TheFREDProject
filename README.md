@@ -7,12 +7,14 @@ Below you can see wich features are done, wich still need some tweaking, and wic
 
 ### Features
 #### Done
-- Noting yet (we're working on it...)
+- Ore textures
+- New language files (we added some fun stuff in there)
 #### Still needs some tweaking
 - Seasons (colorgrading the autumn grasstexture, and deciding the interval on wich the seasons shift)
 - Golems (code their general behavoir and add crafting recipes, and custom textures won't work yet on 1.15.2)
+- Painting tool (It's usable with functions, but the UI doesn't work yet)
 #### Not even started
-- Ores
+- Naturally spawning the custom ores
 - Leave textures (seasons)
 - Spawning custom bosses (We made a Ender Giant/Zombie)
 - Lead villagers with emeralds
