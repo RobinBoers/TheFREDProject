@@ -10,6 +10,7 @@ Below you can see wich features are done, wich still need some tweaking, and wic
 - Ore textures
 - New language files (we added some fun stuff in there)
 - Lapis Golem behavoir
+- Invisible item frames
 #### Still needs some tweaking
 - Seasons (colorgrading the autumn grasstexture, and deciding the interval on wich the seasons shift)
 - Golems (code their general behavoir and add crafting recipes, and custom textures won't work yet on 1.15 and 1.16, because Optifine isn't fully working for those versions)
