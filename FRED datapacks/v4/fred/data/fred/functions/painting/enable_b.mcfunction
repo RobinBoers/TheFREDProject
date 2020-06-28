@@ -1,0 +1,1 @@
+datapack enable "file/blue_brush"
