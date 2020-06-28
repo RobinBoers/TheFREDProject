@@ -1,0 +1,1 @@
+datapack disable "file/green_brush"
