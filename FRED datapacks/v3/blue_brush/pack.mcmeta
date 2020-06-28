@@ -1,6 +1,6 @@
 	{
        "pack": {
-           "pack_format": 1,
+           "pack_format": 5,
            "description": "Tool for painting in Minecraft. Changes the ground underneed you to a specific color wool."
        }
    }
