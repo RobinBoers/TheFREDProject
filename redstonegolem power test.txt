@@ -1,1 +1,9 @@
+This file contains all the commands for testing Golem powers
+
+Redstone Golem (never used)
+===================
 execute at @e[tag=redstone_golem] as @e[distance=..2] run effect give @s levitation 100 1 true
+
+Lapis Golem
+==========================
+execute at @e[tag=lapis_golem] as @e[distance=..20,type=player] run effect give @s minecraft:haste 100 5 true
