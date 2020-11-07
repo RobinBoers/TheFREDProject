@@ -8,6 +8,7 @@ I stopped working on this project, because I didn't enjoy it anymore. I am now w
 
 - BetterPainting
 - RubyTools
+- BetterGolems
 
 NOTE:
 The project was only for around 25% finished. Most of the code wasn't done yet, and probably isn't multiplayer-frienly yet.
